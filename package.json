@@ -1,0 +1,12 @@
+{
+  "private": true,
+  "type": "module",
+  "devDependencies": {
+    "@tsconfig/node22": "22.0.0",
+    "typescript": "5.7.2"
+  },
+  "dependencies": {
+    "@geraintguan/ts-std-lib": "1.0.0",
+    "@types/node": "22.10.1"
+  }
+}
