@@ -11,13 +11,13 @@ importers:
       '@geraintguan/ts-std-lib':
         specifier: 1.0.0
         version: 1.0.0(@types/node@22.10.1)
+      '@types/node':
+        specifier: 22.10.1
+        version: 22.10.1
     devDependencies:
       '@tsconfig/node22':
         specifier: 22.0.0
         version: 22.0.0
-      '@types/node':
-        specifier: 22.10.1
-        version: 22.10.1
       typescript:
         specifier: 5.7.2
         version: 5.7.2
