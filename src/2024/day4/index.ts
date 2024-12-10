@@ -80,4 +80,4 @@ export const main = createSolver(async (rows) => {
   console.log("Part 2: ", count2);
 });
 
-main();
+await main();
